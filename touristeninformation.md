@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/Buchstadt-Leipzig/css/style.css">
+
 # Touristeninformation
 
 Sie haben die Touristeninformation gefunden.
