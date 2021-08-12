@@ -1,4 +1,6 @@
-# Leipzig Hauptbahnhof
+# Leipzig Hauptbahnhof :smiley:
+
+![Leipzig Hauptbahnhof](https://de.wikipedia.org/wiki/Leipzig_Hauptbahnhof#/media/Datei:LE_Hauptbahnhof-4.jpg)
 
 Sie sind jetzt in *Leipzig* angekommen. Sie kennen, dass Leipzig
 sehr bekannt für Bücher und Literatur ist.
