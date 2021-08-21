@@ -18,20 +18,16 @@
   </div>
 </div>
 
-<div class="separator">
-  <p>Parallax scrolling is a web site trend</p>
-</div>
+<div class="separator"></div>
 
 <div class="bgimg-2"></div>
 
-<div style="position:relative;">
-  <div class="separator">
-  <p>Scroll up and down to really get the feeling.</p>
-  </div>
-</div>
+<!-- div style="position:relative;">
+  <div class="separator"></div>
+</div -->
+  <div class="separator"></div>
 
-<div class="bgimg-3">
-</div>
+<div class="bgimg-3"></div>
 
 <button type="button" onclick="history.back();">Zurück</button>
 
