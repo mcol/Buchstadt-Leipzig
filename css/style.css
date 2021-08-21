@@ -84,6 +84,13 @@ button {
   color: #000;
 }
 
+.choices {
+  position: absolute;
+  left: 0;
+  top: 25%;
+  width: 100%;
+}
+
 .caption {
   position: absolute;
   left: 0;
