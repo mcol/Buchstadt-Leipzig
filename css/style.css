@@ -59,3 +59,7 @@ h3 {
 a.button:hover {
   background-color: #dba916; /* Yellowish */
 }
+
+button {
+  font-size: 0.5em;
+}
