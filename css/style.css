@@ -28,6 +28,10 @@ p {
   font-size: 3em;
 }
 
+p.back {
+  font-size: 1em;
+}
+
 //.markdown-body > :first-child {
 //  margin-top: 0 !important;
 //  border-bottom: 0 !important;
