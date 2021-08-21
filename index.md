@@ -9,8 +9,8 @@
 
 Wofür interessieren Sie sich heute?
 
-* [Veranstaltungen](w1.html)
+<div class="button">[Veranstaltungen](w1.html)</div>
 
-* [Leseorte](w2.html)
+<div class="button">[Leseorte](w2.html)</div>
 
-* [Etwas anderes](w3.html)
+<div class="button">[Etwas anderes](w3.html)</div>
