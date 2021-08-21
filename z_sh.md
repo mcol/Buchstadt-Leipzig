@@ -13,18 +13,22 @@
 
 <div class="bgimg-1">
   <div class="caption">
-  <span class="border">Schillerhaus</span>
+  <span class="border">Schillerhaus heute</span>
   </div>
 </div>
 <div class="separator"></div>
 
 <div class="bgimg-2">
   <div class="caption">
-  <span class="border">Schillerhaus in 1843</span>
+  <span class="border">Schillerhaus um 1850</span>
   </div>
 </div>
 <div class="separator"></div>
 
-<div class="bgimg-3"></div>
+<div class="bgimg-3">
+  <div class="caption">
+  <span class="border">Gedenktafel</span>
+  </div>
+</div>
 
 <button type="button" onclick="history.back();">Zurück</button>
