@@ -6,6 +6,6 @@
 
 Wofür interessieren Sie sich heute?
 
-[Veranstaltungen](w1.html){:.button}
-[Leseorte](w2.html){:.button}
-[Etwas anderes](w3.html){:.button}
+[Lesen](w1.html){:.button}
+[Veröffentlichen](w2.html){:.button}
+[Träumen](w3.html){:.button}
