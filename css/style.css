@@ -32,6 +32,10 @@ p.back {
   font-size: 1em;
 }
 
+.fullwidth {
+  width: 100%;
+}
+
 //.markdown-body > :first-child {
 //  margin-top: 0 !important;
 //  border-bottom: 0 !important;
