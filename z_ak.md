@@ -26,6 +26,8 @@
 </div>
 <div class="separator"></div>
 
+<div style="position:relative;"></div>
+
 <div class="bgimg-3">
   <div class="caption">
   <span class="border">Auerbachs Keller</span>

@@ -16,10 +16,15 @@
   <span class="border">Schillerhaus</span>
   </div>
 </div>
+<div class="separator"></div>
 
+<div class="bgimg-2">
+  <div class="caption">
+  <span class="border">Schillerhaus in 1843</span>
+  </div>
+</div>
 <div class="separator"></div>
-<div class="bgimg-2"></div>
-<div class="separator"></div>
+
 <div class="bgimg-3"></div>
 
 <button type="button" onclick="history.back();">Zurück</button>
