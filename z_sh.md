@@ -38,20 +38,6 @@
   font-size: 25px;
   letter-spacing: 10px;
 }
-
-.parallax {
-  /* The image used */
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg");
-
-  /* Set a specific height */
-  min-height: 500px;
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 </style>
 
 
@@ -63,9 +49,9 @@
   </div>
 </div>
 
-<div style="color: #777;background-color:white;text-align:center;padding:50px 80px;text-align: justify;">
-  <h3 style="text-align:center;">Parallax Demo</h3>
-  <p>Parallax scrolling is a web site trend where the background content is moved at a different speed than the foreground content while scrolling.</p>
+<div style="color: #777;background-color:white;text-align:center;padding:10px 80px;text-align: justify;">
+  <h3 style="text-align:center;">Gohlis, Nord Leipzig</h3>
+  <p>Parallax scrolling is a web site trend</p>
 </div>
 
 <div class="bgimg-2">
@@ -75,7 +61,7 @@
 </div>
 
 <div style="position:relative;">
-  <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
+  <div style="color:#ddd;background-color:#282E34;text-align:center;padding:10px 80px;text-align: justify;">
   <p>Scroll up and down to really get the feeling of how Parallax Scrolling works.</p>
   </div>
 </div>
