@@ -2,7 +2,7 @@
 
 # Wähle dein eigenes literarisches Abenteuer!
 
-![Leipzig](https://www.leipzig.travel/fileadmin/mediamanager/POI_Datenbank/Verborgenes_Leipzig_Neu/Polyloque/Polylogue-Aussen_Buchhandel-Cafe-Freizeit_Philipp-Kirschner_leipzig.travel.jpg)
+![Leipzig](https://upload.wikimedia.org/wikiversity/de/thumb/d/dc/Platz_vor_der_B%C3%B6rse_in_Leipzig_um_1749.JPG/1500px-Platz_vor_der_B%C3%B6rse_in_Leipzig_um_1749.JPG)
 
 Wofür interessieren Sie sich heute?
 
