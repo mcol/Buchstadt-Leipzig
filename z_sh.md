@@ -4,14 +4,12 @@
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg");
 }
 .bgimg-2 {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ec/Reclam-Regalwand_%28Marquardt%29.JPG");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/5/56/Payne_Leipzig_Schillers_Haus.jpg");
 }
 .bgimg-3 {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/dd/Leipzig_-_Menckestra%C3%9Fe_-_42_03_ies.jpg");
 }
 </style>
-
-# Schillerhaus
 
 <div class="bgimg-1">
   <div class="caption">
@@ -25,4 +23,3 @@
 <div class="bgimg-3"></div>
 
 <button type="button" onclick="history.back();">Zurück</button>
-

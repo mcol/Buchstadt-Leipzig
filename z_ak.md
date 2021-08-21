@@ -1,18 +1,16 @@
 <link rel="stylesheet" href="/Buchstadt-Leipzig/css/style.css">
 <style>
 .bgimg-1 {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e5/Auerbachs_Keller_-_Mephistopheles_and_Faust_sculpture.jpg")
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/40/Maedler_Passage_Petersstrasse_Leipzig_2010.jpg");
 }
 .bgimg-2 {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ec/Reclam-Regalwand_%28Marquardt%29.JPG");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e5/Auerbachs_Keller_-_Mephistopheles_and_Faust_sculpture.jpg")
 }
 .bgimg-3 {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/92/Auerbachs_Keller_Bronzegruppe_Studenten.jpg");
 }
 </style>
 
-
-# Auerbachs Keller
 
 <div class="bgimg-1">
   <div class="caption">
@@ -26,4 +24,3 @@
 <div class="bgimg-3"></div>
 
 <button type="button" onclick="history.back();">Zurück</button>
-
