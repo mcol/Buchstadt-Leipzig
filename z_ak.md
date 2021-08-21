@@ -32,4 +32,4 @@
   </div>
 </div>
 
-<button type="button" onclick="history.back();">Zurück</button>
+<button type="button" onclick="history.back();">Zurück zur vorherigen Auswahl</button>
