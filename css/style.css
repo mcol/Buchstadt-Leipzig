@@ -49,9 +49,9 @@ h3 {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 2em;
+  font-size: 1em;
 }
 
 a.button:hover {
-  background-color: #147000; /* Darker green */
+  background-color: #dba916; /* Yellowish */
 }

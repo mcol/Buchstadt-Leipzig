@@ -4,11 +4,10 @@
 
 ## Wähle dein eigenes literarisches Abenteuer!
 
-
 ![Leipzig Hauptbahnhof](https://upload.wikimedia.org/wikipedia/commons/c/c6/LE_Hauptbahnhof-4.jpg)
 
 Wofür interessieren Sie sich heute?
 
-<a href="w1.html" class="button">Veranstaltungen</a>
-<a href="w2.html" class="button">Leseorte</a>
-<a href="w3.html" class="button">Etwas anderes</a>
+[Veranstaltungen](w1.html){:.button}
+[Leseorte](w2.html){:.button}
+[Etwas anderes](w3.html){:.button}
