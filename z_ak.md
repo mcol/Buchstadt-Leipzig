@@ -4,10 +4,10 @@
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/40/Maedler_Passage_Petersstrasse_Leipzig_2010.jpg");
 }
 .bgimg-2 {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e5/Auerbachs_Keller_-_Mephistopheles_and_Faust_sculpture.jpg")
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e5/Auerbachs_Keller_-_Mephistopheles_and_Faust_sculpture.jpg");
 }
 .bgimg-3 {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/92/Auerbachs_Keller_Bronzegruppe_Studenten.jpg");
+  background-image: url("https://commons.wikimedia.org/wiki/File:Bronzegruppe_Faust_Auerbachs_Keller_Leipzig_2010.jpg");
 }
 </style>
 
@@ -17,10 +17,19 @@
   <span class="border">Auerbachs Keller</span>
   </div>
 </div>
+<div class="separator"></div>
 
+<div class="bgimg-2">
+  <div class="caption">
+  <span class="border">Auerbachs Keller</span>
+  </div>
+</div>
 <div class="separator"></div>
-<div class="bgimg-2"></div>
-<div class="separator"></div>
-<div class="bgimg-3"></div>
+
+<div class="bgimg-3">
+  <div class="caption">
+  <span class="border">Auerbachs Keller</span>
+  </div>
+</div>
 
 <button type="button" onclick="history.back();">Zurück</button>
