@@ -1,14 +1,5 @@
 <link rel="stylesheet" href="/Buchstadt-Leipzig/css/style.css">
 <style>
-.bgimg-1, .bgimg-2, .bgimg-3 {
-  position: relative;
-  opacity: 0.85;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 400px;
-}
 .bgimg-1 {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg");
 }
@@ -18,21 +9,6 @@
 .bgimg-3 {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg");
 }
-.caption {
-  position: absolute;
-  left: 0;
-  top: 50%;
-  width: 100%;
-  text-align: center;
-  color: #000;
-}
-.caption span.border {
-  background-color: #111;
-  color: #fff;
-  padding: 18px;
-  font-size: 25px;
-  letter-spacing: 10px;
-}
 </style>
 
 
@@ -40,7 +16,7 @@
 
 <div class="bgimg-1">
   <!-- div class="caption">
-  <span class="border">Schillerhaus</span>
+  <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Schillerhaus</span>
   </div -->
 </div>
 
