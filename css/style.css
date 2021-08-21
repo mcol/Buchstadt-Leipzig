@@ -49,6 +49,7 @@ h3 {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
+  opacity: 0.95;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -80,14 +81,15 @@ button {
   left: 0;
   top: 10%;
   width: 100%;
-  text-align: center;
   color: #000;
+  text-align: center;
 }
 
 .choices {
   position: absolute;
   left: 0;
   top: 25%;
+  text-align: center;
   width: 100%;
 }
 
