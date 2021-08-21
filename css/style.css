@@ -93,6 +93,16 @@ button {
   color: #000;
 }
 
+.question span.border {
+  background-color: #111;
+  color: #f7f7f7;
+  font-size: 25px;
+  font-weight: bolder;
+  letter-spacing: 10px;
+  opacity: 0.95;
+  padding: 18px;
+}
+
 .caption span.border {
   background-color: #111;
   color: #f7f7f7;
