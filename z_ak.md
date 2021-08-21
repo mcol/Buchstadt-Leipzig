@@ -15,32 +15,15 @@
 # Auerbachs Keller
 
 <div class="bgimg-1">
-  <!-- div class="caption">
-  <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">Schillerhaus</span>
-  </div -->
-</div>
-
-<div style="color: #777;background-color:white;text-align:center;padding:10px 80px;text-align: justify;">
-  <p>Parallax scrolling is a web site trend</p>
-</div>
-
-<div class="bgimg-2">
   <div class="caption">
-  <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">LESS HEIGHT</span>
+  <span class="border">Auerbachs Keller</span>
   </div>
 </div>
 
-<div style="position:relative;">
-  <div style="color:#ddd;background-color:#282E34;text-align:center;padding:10px 80px;text-align: justify;">
-  <p>Scroll up and down to really get the feeling.</p>
-  </div>
-</div>
-
-<div class="bgimg-3">
-  <div class="caption">
-  <!-- span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">SCROLL UP</span -->
-  </div>
-</div>
+<div class="separator"></div>
+<div class="bgimg-2"></div>
+<div class="separator"></div>
+<div class="bgimg-3"></div>
 
 <button type="button" onclick="history.back();">Zurück</button>
 

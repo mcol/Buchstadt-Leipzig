@@ -11,6 +11,7 @@
 }
 </style>
 
+# Schillerhaus
 
 <div class="bgimg-1">
   <div class="caption">
@@ -19,14 +20,8 @@
 </div>
 
 <div class="separator"></div>
-
 <div class="bgimg-2"></div>
-
-<!-- div style="position:relative;">
-  <div class="separator"></div>
-</div -->
-  <div class="separator"></div>
-
+<div class="separator"></div>
 <div class="bgimg-3"></div>
 
 <button type="button" onclick="history.back();">Zurück</button>
