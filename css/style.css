@@ -75,6 +75,15 @@ button {
   min-height: 700px;
 }
 
+.question {
+  position: absolute;
+  left: 0;
+  top: 10%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
 .caption {
   position: absolute;
   left: 0;
