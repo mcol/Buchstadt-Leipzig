@@ -4,7 +4,7 @@
 
 ## Wähle dein eigenes literarisches Abenteuer!
 
-![Leipzig Hauptbahnhof](https://upload.wikimedia.org/wikipedia/commons/c/c6/LE_Hauptbahnhof-4.jpg)
+![Leipzig](https://www.leipzig.travel/fileadmin/mediamanager/POI_Datenbank/Verborgenes_Leipzig_Neu/Polyloque/Polylogue-Aussen_Buchhandel-Cafe-Freizeit_Philipp-Kirschner_leipzig.travel.jpg)
 
 Wofür interessieren Sie sich heute?
 

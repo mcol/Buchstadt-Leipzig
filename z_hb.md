@@ -2,4 +2,4 @@
 
 # Haus des Buches
 
-![DNB](https://upload.wikimedia.org/wikipedia/commons/c/c3/BibLeipzigaussen.JPG)
+![Haus des Buches](https://upload.wikimedia.org/wikipedia/commons/6/62/Haus_des_Buches_2.jpg)

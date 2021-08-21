@@ -2,4 +2,4 @@
 
 # Leipziger Buchmesse
 
-![DNB](https://upload.wikimedia.org/wikipedia/commons/c/c3/BibLeipzigaussen.JPG)
+![Leipziger Buchmesse](https://upload.wikimedia.org/wikipedia/commons/e/ea/Leipziger_Buchmesse_2017.jpg)

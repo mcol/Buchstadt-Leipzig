@@ -2,4 +2,4 @@
 
 # Reclam-Museum
 
-![DNB](https://upload.wikimedia.org/wikipedia/commons/c/c3/BibLeipzigaussen.JPG)
+![Reclam-Museum](https://upload.wikimedia.org/wikipedia/commons/e/ec/Reclam-Regalwand_%28Marquardt%29.JPG)

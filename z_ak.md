@@ -2,4 +2,4 @@
 
 # Auerbachs Keller
 
-![Schillerhaus](https://upload.wikimedia.org/wikipedia/commons/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg)
+![Auerbachs Keller](https://upload.wikimedia.org/wikipedia/commons/e/e5/Auerbachs_Keller_-_Mephistopheles_and_Faust_sculpture.jpg)
