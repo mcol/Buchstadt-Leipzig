@@ -3,5 +3,3 @@
 # Haus des Buches
 
 ![DNB](https://upload.wikimedia.org/wikipedia/commons/c/c3/BibLeipzigaussen.JPG)
-
-[Zurück zum Anfang](index.html)

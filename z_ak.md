@@ -3,5 +3,3 @@
 # Auerbachs Keller
 
 ![Schillerhaus](https://upload.wikimedia.org/wikipedia/commons/4/49/Schillerhaus_Menckestrasse_Leipzig_2009.jpg)
-
-[Zurück zum Anfang](index.html)
