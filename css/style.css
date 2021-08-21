@@ -18,13 +18,13 @@ a {
   text-decoration: none;
 }
 
-a:link, a:visited {
-  color: #369;
-}
+//a:link, a:visited {
+//  color: #369;
+//}
 
-a:hover {
-  color: #d90;
-}
+//a:hover {
+//  color: #d90;
+//}
 
 em {
   color: #369;
@@ -53,4 +53,8 @@ h3 {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+
+.button > a:hover {
+  background-color: #9CFF90; /* Green */
 }
