@@ -36,10 +36,10 @@ p.back {
   width: 100%;
 }
 
-//.markdown-body > :first-child {
-//  margin-top: 0 !important;
-//  border-bottom: 0 !important;
-//}
+.markdown-body > :first-child {
+  margin-top: 0 !important;
+  border-bottom: 0 !important;
+}
 
 h3 {
   margin: 0;
@@ -88,8 +88,13 @@ button {
   background-color:transparent;
   color: #f7f7f7;
   font-size: 25px;
+  font-weight: bolder;
   letter-spacing: 10px;
   padding: 18px;
+}
+
+.border {
+  border-width: 3px;
 }
 
 .separator {
