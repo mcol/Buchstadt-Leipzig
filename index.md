@@ -1,17 +1,16 @@
 <link rel="stylesheet" href="/Buchstadt-Leipzig/css/style.css">
 
-# Leipzig Hauptbahnhof
+# Buchstadt Leipzig
+
+## Wähle dein eigenes literarisches Abenteuer!
+
 
 ![Leipzig Hauptbahnhof](https://upload.wikimedia.org/wikipedia/commons/c/c6/LE_Hauptbahnhof-4.jpg)
 
-Sie sind jetzt in **Leipzig** angekommen. Sie kennen, dass Leipzig
-sehr bekannt für Bücher und Literatur ist.
+Wofür interessieren Sie sich heute?
 
-Sie sind aufgeregt die Stadt zu besichtigen! Aber sie haben
-**keine Bücher...**
+* [Veranstaltungen](w1.html)
 
-Wohin gehen Sie?
+* [Leseorte](w2.html)
 
-* [Nord](berlin.html)
-
-* [Süd](touristeninformation.html)
+* [Etwas anderes](w3.html)
