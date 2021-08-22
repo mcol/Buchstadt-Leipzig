@@ -99,6 +99,10 @@ button {
   width: 100%;
 }
 
+.choices > :first-child {
+  margin-top: 50px !important;
+}
+
 .caption {
   position: absolute;
   left: 0;
