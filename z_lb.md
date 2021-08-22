@@ -4,7 +4,7 @@
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ea/Leipziger_Buchmesse_2017.jpg");
 }
 .bgimg-2 {
-  background-image: url("http://www.fandomobserver.de/wp-content/uploads/2012/04/pr_buch12_5021.jpg");
+  background-image: url("https://pm2.phs.ed.ac.uk/~mcolombo/pr_buch12_5021.jpg");
 }
 .bgimg-3 {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e8/Jury_des_Preises_der_Leipziger_Buchmesse_2018.jpg");
