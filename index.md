@@ -6,10 +6,10 @@
 </style>
 
 <div class="bgimg">
-  <div class="question">
+  <div class="question" style="top: 40%">
   <span class="border" style="letter-spacing: 7px;">Wähle Ihr eigenes literarisches Abenteuer!</span>
   </div>
-  <div class="choices">
+  <div class="choices" style="top: 55%">
   <p><a href="w0.html" class="button border">Anfang</a></p>
   </div>
 </div>
