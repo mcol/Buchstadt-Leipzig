@@ -4,7 +4,7 @@
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ea/Leipziger_Buchmesse_2017.jpg");
 }
 .bgimg-2 {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/37/Neue_Messe_Leipzig_15.JPG");
+  background-image: url("http://www.fandomobserver.de/wp-content/uploads/2012/04/pr_buch12_5021.jpg");
 }
 .bgimg-3 {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e8/Jury_des_Preises_der_Leipziger_Buchmesse_2018.jpg");
@@ -22,7 +22,7 @@
 
 <div class="bgimg-2">
   <div class="caption">
-  <span class="border">Deutsches Buchhändlerhaus um 1900</span>
+  <span class="border">Messebuchhandlung</span>
   </div>
 </div>
 <div class="separator"></div>
