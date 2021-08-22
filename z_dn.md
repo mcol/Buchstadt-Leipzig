@@ -15,7 +15,7 @@
 
 <div class="bgimg-1">
   <div class="caption">
-  <span class="border">Mädler Passage</span>
+  <span class="border">Deutsche Nationalbibliothek</span>
   </div>
 </div>
 <div class="separator"></div>
@@ -35,4 +35,4 @@
 <div class="separator"></div>
 
 <button type="button" onclick="history.back();">Zurück zur vorherigen Auswahl</button>
-<button type="button" onclick="history.back();">Zurück zum Anfang</button>
+<button type="button" onclick="window.location='/'">Zurück zum Anfang</button>
