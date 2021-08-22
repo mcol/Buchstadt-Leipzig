@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="/Buchstadt-Leipzig/css/style.css">
 <style>
 .bgimg-1 {
-  background-image: url("http://www.museumsnacht-halle-leipzig.de/wp-content/uploads/2019/01/P1030687.jpg");
+  background-image: url("https://reclam-museum.de/.cm4all/mediadb/Das%20Reclam-Museum/.P1030665.JPG/picture-1200");
 }
 .bgimg-2 {
   background-image: url("https://reclam-museum.de/.cm4all/mediadb/Das%20Reclam-Museum/.P1030611.JPG/picture-1200");
@@ -22,7 +22,7 @@
 
 <div class="bgimg-2">
   <div class="caption">
-  <span class="border">Veranstaltungen</span>
+  <span class="border">Daueraunstellung</span>
   </div>
 </div>
 <div class="separator"></div>
