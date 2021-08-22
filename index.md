@@ -7,7 +7,7 @@
 
 <div class="bgimg">
   <div class="question">
-  <span class="border">Wähle Ihr eigenes literarisches Abenteuer!</span>
+  <span class="border" style="letter-spacing: 7px;">Wähle Ihr eigenes literarisches Abenteuer!</span>
   </div>
   <div class="choices">
   <p><a href="w0.html" class="button border">Anfang</a></p>
