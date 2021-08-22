@@ -7,7 +7,6 @@
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/9a/Buchhaendlerboerse_Leipzig_1900.jpg");
 }
 .bgimg-3 {
-//  background-image: url("https://upload.wikimedia.org/wikipedia/commons/1/18/Haus_des_Buches_6.jpg");
   background-image: url("https://www.leipzig.travel/fileadmin/mediamanager/POI_Datenbank/11_Architektur/Haus-des-Buches-Literaturcafe_Veranstaltungen-Literatur-Kultur_Gaby-Waldek_leipzig.travel.jpg");
 }
 </style>
@@ -30,8 +29,9 @@
 
 <div class="bgimg-3">
   <div class="caption">
-  <span class="border">Veranstaltungen</span>
+  <span class="border">Veranstaltungen im Literaturhaus</span>
   </div>
 </div>
 
 <button type="button" onclick="history.back();">Zurück zur vorherigen Auswahl</button>
+<button type="button" onclick="history.back();">Zurück zum Anfang</button>
