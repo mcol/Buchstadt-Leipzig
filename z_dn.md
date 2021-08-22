@@ -35,4 +35,4 @@
 <div class="separator"></div>
 
 <button type="button" onclick="history.back();">Zurück zur vorherigen Auswahl</button>
-<button type="button" onclick="window.location='/'">Zurück zum Anfang</button>
+<button type="button" onclick="window.location='/Buchstadt-Leipzig'">Zurück zum Anfang</button>
