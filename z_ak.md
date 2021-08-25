@@ -15,7 +15,7 @@
 
 <div class="bgimg-1">
   <div class="caption">
-  <span class="border">Mädler Passage</span>
+  <span class="border">Mädler-Passage</span>
   </div>
 </div>
 <div class="separator"></div>
@@ -29,7 +29,7 @@
 
 <div class="bgimg-3">
   <div class="caption">
-  <span class="border">Bronzegruppe zu Goethes Faust</span>
+  <span class="border">Bronzegruppe aus Goethes Faust</span>
   </div>
 </div>
 

@@ -4,10 +4,10 @@
   background-image: url("https://reclam-museum.de/.cm4all/mediadb/Das%20Reclam-Museum/.P1030665.JPG/picture-1200");
 }
 .bgimg-2 {
-  background-image: url("https://reclam-museum.de/.cm4all/mediadb/Das%20Reclam-Museum/.P1030611.JPG/picture-1200");
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ec/Reclam-Regalwand_%28Marquardt%29.JPG");
 }
 .bgimg-3 {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/ec/Reclam-Regalwand_%28Marquardt%29.JPG");
+  background-image: url("https://reclam-museum.de/.cm4all/mediadb/Das%20Reclam-Museum/.P1030611.JPG/picture-1200");
 }
 </style>
 
@@ -22,14 +22,14 @@
 
 <div class="bgimg-2">
   <div class="caption">
-  <span class="border">Daueraunstellung</span>
+  <span class="border">Reclams Universal-Bibliothek</span>
   </div>
 </div>
 <div class="separator"></div>
 
 <div class="bgimg-3">
   <div class="caption">
-  <span class="border">Reclams Universal-Bibliothek</span>
+  <span class="border">Dauerausstellung</span>
   </div>
 </div>
 
