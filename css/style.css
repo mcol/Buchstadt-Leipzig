@@ -64,7 +64,10 @@ a.button:hover {
 }
 
 button {
+  background-color: #7b38d8; /* Purplish */
+  border-radius: 5px;
   font-size: 0.5em;
+  margin-top: 20px;
 }
 
 /* parallax */
